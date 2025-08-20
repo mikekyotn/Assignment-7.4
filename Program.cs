@@ -17,6 +17,8 @@
             Console.WriteLine(parkingSystem.AddCar(3)); // return false Small car
 
             Console.WriteLine(parkingSystem.AddCar(1)); // return false 2nd Big car
+
+            Console.ReadKey();
         }
     }
 }
